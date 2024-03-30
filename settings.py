@@ -8,3 +8,6 @@ FPS = 60
 
 #Colors
 BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+
+SIZE = 64
