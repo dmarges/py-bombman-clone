@@ -6,7 +6,7 @@ class Game:
     def __init__(self, main, assets):
         self.MAIN = main
         self.ASSETS = assets
-        self.player = Player(self)
+        self.player = Player(self, self.ASSETS.player_char)
 
     def input(self):
         # for event in pygame.event.get():
