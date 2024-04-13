@@ -1,3 +1,4 @@
+#A Game written by Donnie Marges
 import pygame
 import settings as gs
 from assets import Assets
